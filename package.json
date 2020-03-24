@@ -1,0 +1,11 @@
+{
+  "name": "go-fullstack",
+  "version": "1.0.0",
+  "description": "essai node.js avec Express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "william",
+  "license": "ISC"
+}
